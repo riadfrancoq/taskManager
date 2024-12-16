@@ -1,0 +1,6 @@
+projectKey=taskManager
+serverUrl=http://127.0.0.1:9000
+serverVersion=9.2.2.50622
+dashboardUrl=http://127.0.0.1:9000/dashboard?id=taskManager
+ceTaskId=AZPQj5vKFwjFolqWXIap
+ceTaskUrl=http://127.0.0.1:9000/api/ce/task?id=AZPQj5vKFwjFolqWXIap
