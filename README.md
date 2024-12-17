@@ -47,3 +47,7 @@ Ejecuta la aplicación:
 ```bash
 streamlit run app.py
 ```
+
+##  📷 Imagenes
+
+![screenshot](screenshot.png)
